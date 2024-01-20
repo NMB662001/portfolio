@@ -1,0 +1,38 @@
+.back
+{
+        background-color:aqua;
+/* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcJGFr41RTHrZ-PSl4NyQtnz-WJFmUJoK8g&usqp=CAU'); */
+background-image:url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png');
+        height: 10vh;
+    margin-top: -7px;
+    font-size: 50px;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+.am
+{
+    font-size: 100px;
+    text-align:center;
+margin-top: 100px;
+margin-left: 20px;
+}
+.p1
+{
+    text-align:justify;
+    font-style: bold;
+    font-family: "times new roman";
+    font-size: 20px;
+    border-radius: 50px solid black;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+.git
+            {
+                color: rebeccapurple;
+                font-size: 50px;
+                font-family:"times new roman";
+                text-align: center;
+                margin-top: -5rem;
+                margin-left: 25px;
+            }

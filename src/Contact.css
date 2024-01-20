@@ -1,0 +1,84 @@
+.abc
+{
+    background-color:aqua;
+/* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcJGFr41RTHrZ-PSl4NyQtnz-WJFmUJoK8g&usqp=CAU'); */
+background-image:url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png');
+        height: 100vh;
+    margin-top: -7px;
+    font-size: 50px;
+    background-size: cover;
+    background-repeat: no-repeat; 
+
+}
+#cm
+            {
+                font-size: 100px;
+                font-family:"times new roman";
+                text-align: center;
+                margin-top: -10px;
+            }
+            .git12
+            {
+                color: rebeccapurple;
+                font-size: 50px;
+                font-family:"times new roman";
+                text-align: center;
+                margin-top: -80px;
+                margin-left: -20px;
+            }
+           
+           .l1
+           {
+            font-size: 20px;
+            font-weight: 200;
+            margin-left: 900px;
+            margin-top: -50px;
+           }
+           .l2
+           {
+            margin-top: -10px;
+             margin-left: -100px;
+           }
+           .icon
+           {
+            margin-top: -270px;
+            margin-left: 30px;
+            font-size: 20px;
+           }
+           .i1
+           {
+            padding: 15px;
+            margin-left: 700px;
+            border: 1px solid gray;
+           }
+           .i2
+           {
+            padding: 15px;
+            margin-left: 100px;
+            border: 1px solid gray;
+           }
+           .i3
+           {
+            padding: 15px;
+            margin-left:700px ;
+            border: 1px solid gray;
+           }
+           .i4
+           {
+            padding:15px ;
+            margin-left: 100px;
+            margin-top: 20px;
+            border: 1px solid gray;
+           }
+           .btn
+           {
+            padding:10px ;
+            margin-left: 890px;
+            margin-top: 10px;
+            background-color: blueviolet;
+            border: 1px solid gray;
+           }
+           .m1
+           {
+            margin-top: -30px;
+           }

@@ -1,0 +1,73 @@
+   
+.m
+{
+    display: flex;
+justify-content: space-between;
+padding: 0.5rem;
+ background-color:aqua;
+/*background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcJGFr41RTHrZ-PSl4NyQtnz-WJFmUJoK8g&usqp=CAU');
+background-image:url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png')
+        height: 100vh;
+    margin-top: 7px;
+    font-size: 50px;
+    background-size: cover;
+    background-repeat: no-repeat; */
+
+}
+.left
+{
+    font-weight: 800;
+font-size: 2rem;
+margin-top: 1rem;
+}
+.right
+{
+    display: flex;
+    justify-content: space-between;
+padding: 1rem;
+/* background-color: rgb(208, 214, 214); */
+gap: 3rem;
+font-size: 2rem;
+font-weight: 700;
+color: dimgray;
+}
+
+.section
+{
+     color: #fff;
+    font-size: 25px;
+    margin-bottom:-600px;
+    margin-top: -700px;
+    font-weight: 400;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    margin-left: 100px;
+    padding: 12px 12px;
+}
+.l1
+{
+font-size: 1rem;
+font-family: "times new roman";
+
+}
+.l2
+{
+font-size: 75px;
+font-family: "times new roman";
+font-weight: 600;
+margin-left: -3px;
+}
+.l3
+{
+font-size: 30px;
+font-family: "times new roman";
+}
+.l4
+{
+    background-color:black;
+    padding: 15px;
+    color: #fff;
+    border: 10px solid black;
+    border-radius: 10px solid black;
+}
+
