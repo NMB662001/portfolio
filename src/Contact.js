@@ -1,5 +1,6 @@
 import React from 'react'
 import './Contact.css'
+import {FaUser, FaMapMarkedAlt,FaEnvelope} from 'react-icons/fa'
 const Contact = () => {
   return (
     <div className='abc'>
@@ -13,16 +14,17 @@ const Contact = () => {
                   <button class="btn">Send message</button>
               </form>
               <div class="icon">
-
-                  <i class="fas fa-user"></i>
+                <FaUser className='icon1'/>
+                 
                   <label> &nbsp;Name</label><p>Nisha Milind Bhujbal</p>
                   <br/>
-                      <i class="fas fa-map-marker-alt"></i>
-                      <label>Address</label><p>Ahmednagar Maharashtra</p>
+                   
+                      <FaMapMarkedAlt className='icon1'/>
+                      <label>&nbsp; Address</label><p>Ahmednagar Maharashtra</p>
 
                       <br/>
-                          <i class="fas fa-envelope"></i>
-                          <label>Email</label><p>nishabhujbal6@gmail.com</p>
+                          <FaEnvelope/>
+                          <label>&nbsp; Email</label><p>nishabhujbal6@gmail.com</p>
                       </div>
                   </div></div>
               )

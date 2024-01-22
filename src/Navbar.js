@@ -7,17 +7,21 @@ const Nabvar=()=>
 {
     // const navigate=useNavigate();
     return(
-    
-    <div className='nav'><div className='m'>
-            <div className='left'> Nisha Milind Bhujbal</div>
-            <div className='right'>
-                <Link to='/Home'>Home</Link>
-                <Link to='/About'>About</Link>
-                <Link to='/Skills'>Skills</Link>
-                <Link to='/Project'>Project</Link>
-                <Link to='/Contact'>Contact</Link>
-            </div> </div>
-        </div>
+  <><>
+            <div className='nav'><div className='m'>
+                <div className='left'> Nisha Milind Bhujbal</div>
+                <div className='right'>
+                    <Link to='/Home'>Home</Link>
+                    <Link to='/About'>About</Link>
+                    <Link to='/Skills'>Skills</Link>
+                    <Link to='/Project'>Project</Link>
+                    <Link to='/Contact'>Contact</Link>
+                </div> </div>
+            </div>
+        </><>
+                <div>   <Link to="/Font"></Link>  
+</div>
+            </></>
         // <div>
         //         <div className='first'>Hello,my name is</div>
         //         <div className="second">Nisha Mlind Bhujbal</div>

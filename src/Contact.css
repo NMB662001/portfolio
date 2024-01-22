@@ -10,6 +10,7 @@ background-image:url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png'
     background-repeat: no-repeat; 
 
 }
+
 #cm
             {
                 font-size: 100px;
@@ -44,6 +45,10 @@ background-image:url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png'
             margin-top: -270px;
             margin-left: 30px;
             font-size: 20px;
+           }
+           .icon1
+           {
+            size: 10%;
            }
            .i1
            {

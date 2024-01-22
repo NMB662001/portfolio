@@ -3,8 +3,8 @@
         background-color:aqua;
 /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcJGFr41RTHrZ-PSl4NyQtnz-WJFmUJoK8g&usqp=CAU'); */
 background-image:url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png');
-        height: 10vh;
-    margin-top: -7px;
+        height: 100vh;
+    margin-top: -100px;
     font-size: 50px;
     background-size: cover;
     background-repeat: no-repeat; 
@@ -22,17 +22,43 @@ margin-left: 20px;
     text-align:justify;
     font-style: bold;
     font-family: "times new roman";
-    font-size: 20px;
+    font-size: 18px;
     border-radius: 50px solid black;
     justify-content: space-evenly;
-    margin: 50px;
-}
+    margin-left: 50px;
+    font-weight: 700;
+    padding: 1%;
+    }
 .git
             {
-                color: rebeccapurple;
+                color:blueviolet;
                 font-size: 50px;
                 font-family:"times new roman";
                 text-align: center;
                 margin-top: -5rem;
                 margin-left: 25px;
+                padding: 5px;
+            }
+            .icons
+            {
+                border: 10px solid black;
+                margin-left: 50%;
+                margin-right: 2%;
+                margin-top: -15%;
+                font-family: 'Times New Roman';
+                padding: 2px;
+            }
+            .link
+            {
+                font-size: 25px;
+                
+            }
+            .github
+            {
+                font-size: 25px;
+            }
+            .email
+            {
+                font-size: 25px;
+                
             }
