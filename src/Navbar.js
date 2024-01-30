@@ -1,6 +1,7 @@
 import React from 'react'
 import './Navbar.css'
 import { Link } from 'react-router-dom'
+import Front from './Front'
 // import { useNavigate } from 'react-router-dom';
 
 const Nabvar=()=>
@@ -18,10 +19,9 @@ const Nabvar=()=>
                     <Link to='/Contact'>Contact</Link>
                 </div> </div>
             </div>
-        </><>
-                <div>   <Link to="/Font"></Link>  
-</div>
-            </></>
+            </>
+            </>
+     
         // <div>
         //         <div className='first'>Hello,my name is</div>
         //         <div className="second">Nisha Mlind Bhujbal</div>
