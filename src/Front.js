@@ -4,8 +4,10 @@ import './Front.css';
 const Front=()=>
 {
 return(
-    // <img className="fp" src={img2} alt="first_page"/>
-    <div className="fp"></div>
+    <div className="fp">
+            <img className="fp" src={img2} alt="first_page"/>
+
+    </div>
 )
 }
 export default Front;

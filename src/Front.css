@@ -1,6 +1,6 @@
 .fp
 {
-    background-image: url('c:\Users\lenovo\Pictures\fp1.png');
+    background-image: url('./fp1.png');
     background-size: cover;
 height:180vh;
 
