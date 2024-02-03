@@ -2,7 +2,7 @@
 {
     background-color:aqua;
 /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcJGFr41RTHrZ-PSl4NyQtnz-WJFmUJoK8g&usqp=CAU'); */
-background-image:url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png');
+/* background-image:url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png'); */
         height: 100vh;
     margin-top: -7px;
     font-size: 50px;
@@ -21,10 +21,11 @@ background-image:url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png'
             font-family: "times new roman";
             text-align: center;
             margin-left: 100px;
+            color: white;
         }
         .s2
         {
-            color: rebeccapurple;
+            color:white;
             font-size: 50px;
             text-align: center;
             font-family:"times new roman";
@@ -44,6 +45,7 @@ background-image:url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png'
             margin-top: -20px;
             justify-content: space-evenly;
             font-size:25px ;
+            color: white;
             font-weight: 700;
         }
         .chart
