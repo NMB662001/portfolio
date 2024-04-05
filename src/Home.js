@@ -1,7 +1,6 @@
 import React from "react";
 import './Home.css';
-import { Link } from "react-router-dom";
-import img1 from './logo.png';
+import img1 from './photo.png';
 const Home = () =>
 {
     return(
